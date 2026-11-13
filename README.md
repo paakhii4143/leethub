@@ -26,4 +26,8 @@
 | [1341-movie-rating](https://github.com/paakhii4143/leethub/tree/main/1341-movie-rating/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/paakhii4143/leethub/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 | [3482-analyze-organization-hierarchy](https://github.com/paakhii4143/leethub/tree/main/3482-analyze-organization-hierarchy/) | Hard |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/paakhii4143/leethub/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 <!---LeetCode Topics End-->
