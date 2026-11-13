@@ -12,6 +12,7 @@
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0178-rank-scores](https://github.com/paakhii4143/leethub/tree/main/0178-rank-scores/) | Medium |
 | [0262-trips-and-users](https://github.com/paakhii4143/leethub/tree/main/0262-trips-and-users/) | Hard |
 | [0608-tree-node](https://github.com/paakhii4143/leethub/tree/main/0608-tree-node/) | Medium |
 | [1045-customers-who-bought-all-products](https://github.com/paakhii4143/leethub/tree/main/1045-customers-who-bought-all-products/) | Medium |
