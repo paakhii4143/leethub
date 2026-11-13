@@ -12,5 +12,6 @@
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1045-customers-who-bought-all-products](https://github.com/paakhii4143/leethub/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1280-students-and-examinations](https://github.com/paakhii4143/leethub/tree/main/1280-students-and-examinations/) | Easy |
 <!---LeetCode Topics End-->
