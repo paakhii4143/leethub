@@ -23,5 +23,6 @@
 | [1070-product-sales-analysis-iii](https://github.com/paakhii4143/leethub/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1280-students-and-examinations](https://github.com/paakhii4143/leethub/tree/main/1280-students-and-examinations/) | Easy |
 | [1341-movie-rating](https://github.com/paakhii4143/leethub/tree/main/1341-movie-rating/) | Medium |
+| [1978-employees-whose-manager-left-the-company](https://github.com/paakhii4143/leethub/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 | [3482-analyze-organization-hierarchy](https://github.com/paakhii4143/leethub/tree/main/3482-analyze-organization-hierarchy/) | Hard |
 <!---LeetCode Topics End-->
