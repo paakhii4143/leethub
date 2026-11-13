@@ -17,6 +17,7 @@
 | [0184-department-highest-salary](https://github.com/paakhii4143/leethub/tree/main/0184-department-highest-salary/) | Medium |
 | [0262-trips-and-users](https://github.com/paakhii4143/leethub/tree/main/0262-trips-and-users/) | Hard |
 | [0585-investments-in-2016](https://github.com/paakhii4143/leethub/tree/main/0585-investments-in-2016/) | Medium |
+| [0601-human-traffic-of-stadium](https://github.com/paakhii4143/leethub/tree/main/0601-human-traffic-of-stadium/) | Hard |
 | [0608-tree-node](https://github.com/paakhii4143/leethub/tree/main/0608-tree-node/) | Medium |
 | [1045-customers-who-bought-all-products](https://github.com/paakhii4143/leethub/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1070-product-sales-analysis-iii](https://github.com/paakhii4143/leethub/tree/main/1070-product-sales-analysis-iii/) | Medium |
