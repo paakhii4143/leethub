@@ -15,6 +15,7 @@
 | [0178-rank-scores](https://github.com/paakhii4143/leethub/tree/main/0178-rank-scores/) | Medium |
 | [0180-consecutive-numbers](https://github.com/paakhii4143/leethub/tree/main/0180-consecutive-numbers/) | Medium |
 | [0262-trips-and-users](https://github.com/paakhii4143/leethub/tree/main/0262-trips-and-users/) | Hard |
+| [0585-investments-in-2016](https://github.com/paakhii4143/leethub/tree/main/0585-investments-in-2016/) | Medium |
 | [0608-tree-node](https://github.com/paakhii4143/leethub/tree/main/0608-tree-node/) | Medium |
 | [1045-customers-who-bought-all-products](https://github.com/paakhii4143/leethub/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1280-students-and-examinations](https://github.com/paakhii4143/leethub/tree/main/1280-students-and-examinations/) | Easy |
