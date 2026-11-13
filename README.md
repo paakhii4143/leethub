@@ -29,5 +29,10 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/paakhii4143/leethub/tree/main/0001-two-sum/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/paakhii4143/leethub/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/paakhii4143/leethub/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
