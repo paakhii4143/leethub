@@ -4,6 +4,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/paakhii4143/leethub/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/paakhii4143/leethub/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
@@ -35,6 +36,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/paakhii4143/leethub/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/paakhii4143/leethub/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,4 +49,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/paakhii4143/leethub/tree/main/0002-add-two-numbers/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/paakhii4143/leethub/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
