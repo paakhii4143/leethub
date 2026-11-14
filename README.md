@@ -34,6 +34,7 @@
 | [0001-two-sum](https://github.com/paakhii4143/leethub/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/paakhii4143/leethub/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/paakhii4143/leethub/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/paakhii4143/leethub/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,6 +56,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/paakhii4143/leethub/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/paakhii4143/leethub/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,4 +77,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/paakhii4143/leethub/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/paakhii4143/leethub/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 <!---LeetCode Topics End-->
