@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/paakhii4143/leethub/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/paakhii4143/leethub/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/paakhii4143/leethub/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [3614-process-string-with-special-operations-ii](https://github.com/paakhii4143/leethub/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
@@ -42,6 +43,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/paakhii4143/leethub/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/paakhii4143/leethub/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/paakhii4143/leethub/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,5 +98,6 @@
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/paakhii4143/leethub/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/paakhii4143/leethub/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
