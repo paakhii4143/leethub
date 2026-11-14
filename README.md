@@ -55,6 +55,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/paakhii4143/leethub/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/paakhii4143/leethub/tree/main/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/paakhii4143/leethub/tree/main/0009-palindrome-number/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/paakhii4143/leethub/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
