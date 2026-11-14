@@ -48,6 +48,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/paakhii4143/leethub/tree/main/0002-add-two-numbers/) | Medium |
+| [1344-angle-between-hands-of-a-clock](https://github.com/paakhii4143/leethub/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
