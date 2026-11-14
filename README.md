@@ -45,6 +45,7 @@
 | [0014-longest-common-prefix](https://github.com/paakhii4143/leethub/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/paakhii4143/leethub/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/paakhii4143/leethub/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/paakhii4143/leethub/tree/main/0018-4sum/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/paakhii4143/leethub/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/paakhii4143/leethub/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/paakhii4143/leethub/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
@@ -96,6 +97,7 @@
 | [0011-container-with-most-water](https://github.com/paakhii4143/leethub/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/paakhii4143/leethub/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/paakhii4143/leethub/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/paakhii4143/leethub/tree/main/0018-4sum/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,6 +122,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/paakhii4143/leethub/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/paakhii4143/leethub/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/paakhii4143/leethub/tree/main/0018-4sum/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/paakhii4143/leethub/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
