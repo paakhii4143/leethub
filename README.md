@@ -70,6 +70,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/paakhii4143/leethub/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/paakhii4143/leethub/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/paakhii4143/leethub/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0025-reverse-nodes-in-k-group](https://github.com/paakhii4143/leethub/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,6 +88,7 @@
 | [0010-regular-expression-matching](https://github.com/paakhii4143/leethub/tree/main/0010-regular-expression-matching/) | Hard |
 | [0021-merge-two-sorted-lists](https://github.com/paakhii4143/leethub/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/paakhii4143/leethub/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0025-reverse-nodes-in-k-group](https://github.com/paakhii4143/leethub/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
