@@ -14,6 +14,7 @@
 | [0014-longest-common-prefix](https://github.com/paakhii4143/leethub/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/paakhii4143/leethub/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/paakhii4143/leethub/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/paakhii4143/leethub/tree/main/0022-generate-parentheses/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/paakhii4143/leethub/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [3614-process-string-with-special-operations-ii](https://github.com/paakhii4143/leethub/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 ## Simulation
@@ -110,6 +111,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/paakhii4143/leethub/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/paakhii4143/leethub/tree/main/0010-regular-expression-matching/) | Hard |
+| [0022-generate-parentheses](https://github.com/paakhii4143/leethub/tree/main/0022-generate-parentheses/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/paakhii4143/leethub/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
@@ -146,6 +148,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/paakhii4143/leethub/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/paakhii4143/leethub/tree/main/0022-generate-parentheses/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -154,4 +157,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/paakhii4143/leethub/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/paakhii4143/leethub/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
