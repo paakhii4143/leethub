@@ -13,6 +13,7 @@
 | [0013-roman-to-integer](https://github.com/paakhii4143/leethub/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/paakhii4143/leethub/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/paakhii4143/leethub/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0020-valid-parentheses](https://github.com/paakhii4143/leethub/tree/main/0020-valid-parentheses/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/paakhii4143/leethub/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [3614-process-string-with-special-operations-ii](https://github.com/paakhii4143/leethub/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 ## Simulation
@@ -143,4 +144,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/paakhii4143/leethub/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/paakhii4143/leethub/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/paakhii4143/leethub/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
