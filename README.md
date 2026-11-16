@@ -16,10 +16,12 @@
 | [0020-valid-parentheses](https://github.com/paakhii4143/leethub/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/paakhii4143/leethub/tree/main/0022-generate-parentheses/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/paakhii4143/leethub/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/paakhii4143/leethub/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3614-process-string-with-special-operations-ii](https://github.com/paakhii4143/leethub/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/paakhii4143/leethub/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3614-process-string-with-special-operations-ii](https://github.com/paakhii4143/leethub/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 ## Database
 | Problem Name | Difficulty |
