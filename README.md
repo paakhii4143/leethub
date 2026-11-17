@@ -60,6 +60,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/paakhii4143/leethub/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/paakhii4143/leethub/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/paakhii4143/leethub/tree/main/0035-search-insert-position/) | Easy |
+| [0036-valid-sudoku](https://github.com/paakhii4143/leethub/tree/main/0036-valid-sudoku/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/paakhii4143/leethub/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/paakhii4143/leethub/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/paakhii4143/leethub/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -74,6 +75,7 @@
 | [0013-roman-to-integer](https://github.com/paakhii4143/leethub/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/paakhii4143/leethub/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/paakhii4143/leethub/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0036-valid-sudoku](https://github.com/paakhii4143/leethub/tree/main/0036-valid-sudoku/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/paakhii4143/leethub/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -223,4 +225,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/paakhii4143/leethub/tree/main/0029-divide-two-integers/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0036-valid-sudoku](https://github.com/paakhii4143/leethub/tree/main/0036-valid-sudoku/) | Medium |
 <!---LeetCode Topics End-->
