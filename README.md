@@ -64,6 +64,7 @@
 | [0036-valid-sudoku](https://github.com/paakhii4143/leethub/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/paakhii4143/leethub/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/paakhii4143/leethub/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/paakhii4143/leethub/tree/main/0040-combination-sum-ii/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/paakhii4143/leethub/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/paakhii4143/leethub/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/paakhii4143/leethub/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -188,6 +189,7 @@
 | [0022-generate-parentheses](https://github.com/paakhii4143/leethub/tree/main/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/paakhii4143/leethub/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/paakhii4143/leethub/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/paakhii4143/leethub/tree/main/0040-combination-sum-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
