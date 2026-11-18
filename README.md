@@ -70,6 +70,7 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/paakhii4143/leethub/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/paakhii4143/leethub/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/paakhii4143/leethub/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/paakhii4143/leethub/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/paakhii4143/leethub/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/paakhii4143/leethub/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/paakhii4143/leethub/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
@@ -181,6 +182,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/paakhii4143/leethub/tree/main/0011-container-with-most-water/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/paakhii4143/leethub/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/paakhii4143/leethub/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -188,6 +190,7 @@
 | [0016-3sum-closest](https://github.com/paakhii4143/leethub/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/paakhii4143/leethub/tree/main/0018-4sum/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/paakhii4143/leethub/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/paakhii4143/leethub/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
