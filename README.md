@@ -75,6 +75,7 @@
 | [0042-trapping-rain-water](https://github.com/paakhii4143/leethub/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/paakhii4143/leethub/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/paakhii4143/leethub/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/paakhii4143/leethub/tree/main/0047-permutations-ii/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/paakhii4143/leethub/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/paakhii4143/leethub/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/paakhii4143/leethub/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -209,6 +210,7 @@
 | [0015-3sum](https://github.com/paakhii4143/leethub/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/paakhii4143/leethub/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/paakhii4143/leethub/tree/main/0018-4sum/) | Medium |
+| [0047-permutations-ii](https://github.com/paakhii4143/leethub/tree/main/0047-permutations-ii/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/paakhii4143/leethub/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/paakhii4143/leethub/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## Counting Sort
@@ -230,6 +232,7 @@
 | [0039-combination-sum](https://github.com/paakhii4143/leethub/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/paakhii4143/leethub/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/paakhii4143/leethub/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/paakhii4143/leethub/tree/main/0047-permutations-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
