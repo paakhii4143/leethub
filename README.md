@@ -80,6 +80,7 @@
 | [0048-rotate-image](https://github.com/paakhii4143/leethub/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/paakhii4143/leethub/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/paakhii4143/leethub/tree/main/0051-n-queens/) | Hard |
+| [0053-maximum-subarray](https://github.com/paakhii4143/leethub/tree/main/0053-maximum-subarray/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/paakhii4143/leethub/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/paakhii4143/leethub/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/paakhii4143/leethub/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -160,6 +161,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/paakhii4143/leethub/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0023-merge-k-sorted-lists](https://github.com/paakhii4143/leethub/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0053-maximum-subarray](https://github.com/paakhii4143/leethub/tree/main/0053-maximum-subarray/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/paakhii4143/leethub/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/paakhii4143/leethub/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Two Pointers
@@ -187,6 +189,7 @@
 | [0042-trapping-rain-water](https://github.com/paakhii4143/leethub/tree/main/0042-trapping-rain-water/) | Hard |
 | [0044-wildcard-matching](https://github.com/paakhii4143/leethub/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/paakhii4143/leethub/tree/main/0045-jump-game-ii/) | Medium |
+| [0053-maximum-subarray](https://github.com/paakhii4143/leethub/tree/main/0053-maximum-subarray/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/paakhii4143/leethub/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/paakhii4143/leethub/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/paakhii4143/leethub/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
