@@ -1,15 +1,10 @@
 
 class Solution(object):
     def maxNumberOfBalloons(self, text):
-        count = {}
+        b = text.count('b')
+        a = text.count('a')
+        l = text.count('l') // 2
+        o = text.count('o') // 2
+        n = text.count('n')
 
-        for ch in text:
-            count[ch] = count.get(ch, 0) + 1
-
-        return min(
-            count.get('b', 0),
-            count.get('a', 0),
-            count.get('l', 0) // 2,
-            count.get('o', 0) // 2,
-            count.get('n', 0)
-        )
+        return min(b, a, l, o, n)
