@@ -19,6 +19,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/paakhii4143/leethub/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0032-longest-valid-parentheses](https://github.com/paakhii4143/leethub/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0038-count-and-say](https://github.com/paakhii4143/leethub/tree/main/0038-count-and-say/) | Medium |
+| [0043-multiply-strings](https://github.com/paakhii4143/leethub/tree/main/0043-multiply-strings/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/paakhii4143/leethub/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/paakhii4143/leethub/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/paakhii4143/leethub/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -29,6 +30,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/paakhii4143/leethub/tree/main/0043-multiply-strings/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/paakhii4143/leethub/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3614-process-string-with-special-operations-ii](https://github.com/paakhii4143/leethub/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 ## Database
@@ -116,6 +118,7 @@
 | [0012-integer-to-roman](https://github.com/paakhii4143/leethub/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/paakhii4143/leethub/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/paakhii4143/leethub/tree/main/0029-divide-two-integers/) | Medium |
+| [0043-multiply-strings](https://github.com/paakhii4143/leethub/tree/main/0043-multiply-strings/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/paakhii4143/leethub/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/paakhii4143/leethub/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/paakhii4143/leethub/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
