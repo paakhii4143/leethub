@@ -20,6 +20,7 @@
 | [0032-longest-valid-parentheses](https://github.com/paakhii4143/leethub/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0038-count-and-say](https://github.com/paakhii4143/leethub/tree/main/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/paakhii4143/leethub/tree/main/0043-multiply-strings/) | Medium |
+| [0044-wildcard-matching](https://github.com/paakhii4143/leethub/tree/main/0044-wildcard-matching/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/paakhii4143/leethub/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/paakhii4143/leethub/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/paakhii4143/leethub/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -130,6 +131,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/paakhii4143/leethub/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/paakhii4143/leethub/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/paakhii4143/leethub/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0044-wildcard-matching](https://github.com/paakhii4143/leethub/tree/main/0044-wildcard-matching/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -174,6 +176,7 @@
 | [0022-generate-parentheses](https://github.com/paakhii4143/leethub/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/paakhii4143/leethub/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/paakhii4143/leethub/tree/main/0042-trapping-rain-water/) | Hard |
+| [0044-wildcard-matching](https://github.com/paakhii4143/leethub/tree/main/0044-wildcard-matching/) | Hard |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/paakhii4143/leethub/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/paakhii4143/leethub/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/paakhii4143/leethub/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
@@ -193,6 +196,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/paakhii4143/leethub/tree/main/0011-container-with-most-water/) | Medium |
+| [0044-wildcard-matching](https://github.com/paakhii4143/leethub/tree/main/0044-wildcard-matching/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/paakhii4143/leethub/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/paakhii4143/leethub/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## Sorting
