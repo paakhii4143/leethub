@@ -74,6 +74,7 @@
 | [0041-first-missing-positive](https://github.com/paakhii4143/leethub/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/paakhii4143/leethub/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/paakhii4143/leethub/tree/main/0045-jump-game-ii/) | Medium |
+| [0046-permutations](https://github.com/paakhii4143/leethub/tree/main/0046-permutations/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/paakhii4143/leethub/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/paakhii4143/leethub/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/paakhii4143/leethub/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -228,6 +229,7 @@
 | [0037-sudoku-solver](https://github.com/paakhii4143/leethub/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/paakhii4143/leethub/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/paakhii4143/leethub/tree/main/0040-combination-sum-ii/) | Medium |
+| [0046-permutations](https://github.com/paakhii4143/leethub/tree/main/0046-permutations/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
