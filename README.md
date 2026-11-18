@@ -76,6 +76,7 @@
 | [0045-jump-game-ii](https://github.com/paakhii4143/leethub/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/paakhii4143/leethub/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/paakhii4143/leethub/tree/main/0047-permutations-ii/) | Medium |
+| [0048-rotate-image](https://github.com/paakhii4143/leethub/tree/main/0048-rotate-image/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/paakhii4143/leethub/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/paakhii4143/leethub/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/paakhii4143/leethub/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -123,6 +124,7 @@
 | [0013-roman-to-integer](https://github.com/paakhii4143/leethub/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/paakhii4143/leethub/tree/main/0029-divide-two-integers/) | Medium |
 | [0043-multiply-strings](https://github.com/paakhii4143/leethub/tree/main/0043-multiply-strings/) | Medium |
+| [0048-rotate-image](https://github.com/paakhii4143/leethub/tree/main/0048-rotate-image/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/paakhii4143/leethub/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/paakhii4143/leethub/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/paakhii4143/leethub/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
@@ -285,6 +287,7 @@
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/paakhii4143/leethub/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/paakhii4143/leethub/tree/main/0037-sudoku-solver/) | Hard |
+| [0048-rotate-image](https://github.com/paakhii4143/leethub/tree/main/0048-rotate-image/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/paakhii4143/leethub/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
