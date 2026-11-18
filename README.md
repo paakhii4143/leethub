@@ -21,6 +21,7 @@
 | [0038-count-and-say](https://github.com/paakhii4143/leethub/tree/main/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/paakhii4143/leethub/tree/main/0043-multiply-strings/) | Medium |
 | [0044-wildcard-matching](https://github.com/paakhii4143/leethub/tree/main/0044-wildcard-matching/) | Hard |
+| [0049-group-anagrams](https://github.com/paakhii4143/leethub/tree/main/0049-group-anagrams/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/paakhii4143/leethub/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/paakhii4143/leethub/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/paakhii4143/leethub/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -77,6 +78,7 @@
 | [0046-permutations](https://github.com/paakhii4143/leethub/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/paakhii4143/leethub/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/paakhii4143/leethub/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/paakhii4143/leethub/tree/main/0049-group-anagrams/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/paakhii4143/leethub/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/paakhii4143/leethub/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/paakhii4143/leethub/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -100,6 +102,7 @@
 | [0036-valid-sudoku](https://github.com/paakhii4143/leethub/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/paakhii4143/leethub/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/paakhii4143/leethub/tree/main/0041-first-missing-positive/) | Hard |
+| [0049-group-anagrams](https://github.com/paakhii4143/leethub/tree/main/0049-group-anagrams/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/paakhii4143/leethub/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/paakhii4143/leethub/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/paakhii4143/leethub/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -213,6 +216,7 @@
 | [0016-3sum-closest](https://github.com/paakhii4143/leethub/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/paakhii4143/leethub/tree/main/0018-4sum/) | Medium |
 | [0047-permutations-ii](https://github.com/paakhii4143/leethub/tree/main/0047-permutations-ii/) | Medium |
+| [0049-group-anagrams](https://github.com/paakhii4143/leethub/tree/main/0049-group-anagrams/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/paakhii4143/leethub/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/paakhii4143/leethub/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## Counting Sort
