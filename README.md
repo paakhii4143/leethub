@@ -79,6 +79,7 @@
 | [0047-permutations-ii](https://github.com/paakhii4143/leethub/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/paakhii4143/leethub/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/paakhii4143/leethub/tree/main/0049-group-anagrams/) | Medium |
+| [0051-n-queens](https://github.com/paakhii4143/leethub/tree/main/0051-n-queens/) | Hard |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/paakhii4143/leethub/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/paakhii4143/leethub/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/paakhii4143/leethub/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -239,6 +240,7 @@
 | [0040-combination-sum-ii](https://github.com/paakhii4143/leethub/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/paakhii4143/leethub/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/paakhii4143/leethub/tree/main/0047-permutations-ii/) | Medium |
+| [0051-n-queens](https://github.com/paakhii4143/leethub/tree/main/0051-n-queens/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -297,6 +299,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/paakhii4143/leethub/tree/main/0037-sudoku-solver/) | Hard |
+| [0051-n-queens](https://github.com/paakhii4143/leethub/tree/main/0051-n-queens/) | Hard |
 ## Dancing Links
 | Problem Name | Difficulty |
 | ------- | ------- |
