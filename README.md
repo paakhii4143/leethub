@@ -85,6 +85,7 @@
 | [0054-spiral-matrix](https://github.com/paakhii4143/leethub/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/paakhii4143/leethub/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/paakhii4143/leethub/tree/main/0056-merge-intervals/) | Medium |
+| [0057-insert-interval](https://github.com/paakhii4143/leethub/tree/main/0057-insert-interval/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/paakhii4143/leethub/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/paakhii4143/leethub/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/paakhii4143/leethub/tree/main/1833-maximum-ice-cream-bars/) | Medium |
