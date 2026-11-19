@@ -89,6 +89,7 @@
 | [0056-merge-intervals](https://github.com/paakhii4143/leethub/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/paakhii4143/leethub/tree/main/0057-insert-interval/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/paakhii4143/leethub/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0063-unique-paths-ii](https://github.com/paakhii4143/leethub/tree/main/0063-unique-paths-ii/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/paakhii4143/leethub/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/paakhii4143/leethub/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/paakhii4143/leethub/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -206,6 +207,7 @@
 | [0053-maximum-subarray](https://github.com/paakhii4143/leethub/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/paakhii4143/leethub/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/paakhii4143/leethub/tree/main/0062-unique-paths/) | Medium |
+| [0063-unique-paths-ii](https://github.com/paakhii4143/leethub/tree/main/0063-unique-paths-ii/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/paakhii4143/leethub/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/paakhii4143/leethub/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/paakhii4143/leethub/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
@@ -319,6 +321,7 @@
 | [0048-rotate-image](https://github.com/paakhii4143/leethub/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/paakhii4143/leethub/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/paakhii4143/leethub/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0063-unique-paths-ii](https://github.com/paakhii4143/leethub/tree/main/0063-unique-paths-ii/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/paakhii4143/leethub/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
