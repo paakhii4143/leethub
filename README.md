@@ -88,6 +88,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/paakhii4143/leethub/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/paakhii4143/leethub/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/paakhii4143/leethub/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/paakhii4143/leethub/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/paakhii4143/leethub/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/paakhii4143/leethub/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/paakhii4143/leethub/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -215,6 +216,7 @@
 | [0045-jump-game-ii](https://github.com/paakhii4143/leethub/tree/main/0045-jump-game-ii/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/paakhii4143/leethub/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/paakhii4143/leethub/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/paakhii4143/leethub/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -225,6 +227,7 @@
 | [0049-group-anagrams](https://github.com/paakhii4143/leethub/tree/main/0049-group-anagrams/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/paakhii4143/leethub/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/paakhii4143/leethub/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/paakhii4143/leethub/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
