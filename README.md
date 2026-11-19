@@ -84,6 +84,7 @@
 | [0053-maximum-subarray](https://github.com/paakhii4143/leethub/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/paakhii4143/leethub/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/paakhii4143/leethub/tree/main/0055-jump-game/) | Medium |
+| [0056-merge-intervals](https://github.com/paakhii4143/leethub/tree/main/0056-merge-intervals/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/paakhii4143/leethub/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/paakhii4143/leethub/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/paakhii4143/leethub/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -228,6 +229,7 @@
 | [0018-4sum](https://github.com/paakhii4143/leethub/tree/main/0018-4sum/) | Medium |
 | [0047-permutations-ii](https://github.com/paakhii4143/leethub/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/paakhii4143/leethub/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/paakhii4143/leethub/tree/main/0056-merge-intervals/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/paakhii4143/leethub/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/paakhii4143/leethub/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/paakhii4143/leethub/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
@@ -341,4 +343,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/paakhii4143/leethub/tree/main/0042-trapping-rain-water/) | Hard |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/paakhii4143/leethub/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
