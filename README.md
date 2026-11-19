@@ -83,6 +83,7 @@
 | [0051-n-queens](https://github.com/paakhii4143/leethub/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/paakhii4143/leethub/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/paakhii4143/leethub/tree/main/0054-spiral-matrix/) | Medium |
+| [0055-jump-game](https://github.com/paakhii4143/leethub/tree/main/0055-jump-game/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/paakhii4143/leethub/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/paakhii4143/leethub/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/paakhii4143/leethub/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -193,6 +194,7 @@
 | [0044-wildcard-matching](https://github.com/paakhii4143/leethub/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/paakhii4143/leethub/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/paakhii4143/leethub/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/paakhii4143/leethub/tree/main/0055-jump-game/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/paakhii4143/leethub/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/paakhii4143/leethub/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/paakhii4143/leethub/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
@@ -214,6 +216,7 @@
 | [0011-container-with-most-water](https://github.com/paakhii4143/leethub/tree/main/0011-container-with-most-water/) | Medium |
 | [0044-wildcard-matching](https://github.com/paakhii4143/leethub/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/paakhii4143/leethub/tree/main/0045-jump-game-ii/) | Medium |
+| [0055-jump-game](https://github.com/paakhii4143/leethub/tree/main/0055-jump-game/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/paakhii4143/leethub/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/paakhii4143/leethub/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/paakhii4143/leethub/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
