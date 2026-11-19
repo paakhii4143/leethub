@@ -139,6 +139,7 @@
 | [0029-divide-two-integers](https://github.com/paakhii4143/leethub/tree/main/0029-divide-two-integers/) | Medium |
 | [0043-multiply-strings](https://github.com/paakhii4143/leethub/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/paakhii4143/leethub/tree/main/0048-rotate-image/) | Medium |
+| [0060-permutation-sequence](https://github.com/paakhii4143/leethub/tree/main/0060-permutation-sequence/) | Hard |
 | [1344-angle-between-hands-of-a-clock](https://github.com/paakhii4143/leethub/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/paakhii4143/leethub/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/paakhii4143/leethub/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
@@ -151,6 +152,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/paakhii4143/leethub/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/paakhii4143/leethub/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0044-wildcard-matching](https://github.com/paakhii4143/leethub/tree/main/0044-wildcard-matching/) | Hard |
+| [0060-permutation-sequence](https://github.com/paakhii4143/leethub/tree/main/0060-permutation-sequence/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
