@@ -141,6 +141,7 @@
 | [0043-multiply-strings](https://github.com/paakhii4143/leethub/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/paakhii4143/leethub/tree/main/0048-rotate-image/) | Medium |
 | [0060-permutation-sequence](https://github.com/paakhii4143/leethub/tree/main/0060-permutation-sequence/) | Hard |
+| [0062-unique-paths](https://github.com/paakhii4143/leethub/tree/main/0062-unique-paths/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/paakhii4143/leethub/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/paakhii4143/leethub/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/paakhii4143/leethub/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
@@ -204,6 +205,7 @@
 | [0045-jump-game-ii](https://github.com/paakhii4143/leethub/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/paakhii4143/leethub/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/paakhii4143/leethub/tree/main/0055-jump-game/) | Medium |
+| [0062-unique-paths](https://github.com/paakhii4143/leethub/tree/main/0062-unique-paths/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/paakhii4143/leethub/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/paakhii4143/leethub/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/paakhii4143/leethub/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
@@ -356,4 +358,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/paakhii4143/leethub/tree/main/0056-merge-intervals/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/paakhii4143/leethub/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
