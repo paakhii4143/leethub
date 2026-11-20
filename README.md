@@ -23,6 +23,7 @@
 | [0044-wildcard-matching](https://github.com/paakhii4143/leethub/tree/main/0044-wildcard-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/paakhii4143/leethub/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/paakhii4143/leethub/tree/main/0058-length-of-last-word/) | Easy |
+| [0065-valid-number](https://github.com/paakhii4143/leethub/tree/main/0065-valid-number/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/paakhii4143/leethub/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/paakhii4143/leethub/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/paakhii4143/leethub/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
