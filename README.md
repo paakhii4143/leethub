@@ -31,6 +31,7 @@
 | [2243-calculate-digit-sum-of-a-string](https://github.com/paakhii4143/leethub/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/paakhii4143/leethub/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/paakhii4143/leethub/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/paakhii4143/leethub/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/paakhii4143/leethub/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
@@ -103,6 +104,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/paakhii4143/leethub/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/paakhii4143/leethub/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/paakhii4143/leethub/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/paakhii4143/leethub/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/paakhii4143/leethub/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/paakhii4143/leethub/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/paakhii4143/leethub/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -122,6 +124,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/paakhii4143/leethub/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/paakhii4143/leethub/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/paakhii4143/leethub/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/paakhii4143/leethub/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/paakhii4143/leethub/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/paakhii4143/leethub/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Linked List
@@ -373,4 +376,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/paakhii4143/leethub/tree/main/0062-unique-paths/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/paakhii4143/leethub/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/paakhii4143/leethub/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 <!---LeetCode Topics End-->
