@@ -155,6 +155,7 @@
 | [0062-unique-paths](https://github.com/paakhii4143/leethub/tree/main/0062-unique-paths/) | Medium |
 | [0067-add-binary](https://github.com/paakhii4143/leethub/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/paakhii4143/leethub/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/paakhii4143/leethub/tree/main/0070-climbing-stairs/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/paakhii4143/leethub/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/paakhii4143/leethub/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/paakhii4143/leethub/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
@@ -222,6 +223,7 @@
 | [0062-unique-paths](https://github.com/paakhii4143/leethub/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/paakhii4143/leethub/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/paakhii4143/leethub/tree/main/0064-minimum-path-sum/) | Medium |
+| [0070-climbing-stairs](https://github.com/paakhii4143/leethub/tree/main/0070-climbing-stairs/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/paakhii4143/leethub/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/paakhii4143/leethub/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/paakhii4143/leethub/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
@@ -393,4 +395,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/paakhii4143/leethub/tree/main/0069-sqrtx/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/paakhii4143/leethub/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
