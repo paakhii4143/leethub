@@ -25,6 +25,7 @@
 | [0058-length-of-last-word](https://github.com/paakhii4143/leethub/tree/main/0058-length-of-last-word/) | Easy |
 | [0065-valid-number](https://github.com/paakhii4143/leethub/tree/main/0065-valid-number/) | Hard |
 | [0067-add-binary](https://github.com/paakhii4143/leethub/tree/main/0067-add-binary/) | Easy |
+| [0068-text-justification](https://github.com/paakhii4143/leethub/tree/main/0068-text-justification/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/paakhii4143/leethub/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/paakhii4143/leethub/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/paakhii4143/leethub/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -40,6 +41,7 @@
 | [0054-spiral-matrix](https://github.com/paakhii4143/leethub/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/paakhii4143/leethub/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0067-add-binary](https://github.com/paakhii4143/leethub/tree/main/0067-add-binary/) | Easy |
+| [0068-text-justification](https://github.com/paakhii4143/leethub/tree/main/0068-text-justification/) | Hard |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/paakhii4143/leethub/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3614-process-string-with-special-operations-ii](https://github.com/paakhii4143/leethub/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 ## Database
@@ -95,6 +97,7 @@
 | [0059-spiral-matrix-ii](https://github.com/paakhii4143/leethub/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/paakhii4143/leethub/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/paakhii4143/leethub/tree/main/0064-minimum-path-sum/) | Medium |
+| [0068-text-justification](https://github.com/paakhii4143/leethub/tree/main/0068-text-justification/) | Hard |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/paakhii4143/leethub/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/paakhii4143/leethub/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/paakhii4143/leethub/tree/main/1833-maximum-ice-cream-bars/) | Medium |
