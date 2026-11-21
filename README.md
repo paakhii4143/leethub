@@ -154,6 +154,7 @@
 | [0060-permutation-sequence](https://github.com/paakhii4143/leethub/tree/main/0060-permutation-sequence/) | Hard |
 | [0062-unique-paths](https://github.com/paakhii4143/leethub/tree/main/0062-unique-paths/) | Medium |
 | [0067-add-binary](https://github.com/paakhii4143/leethub/tree/main/0067-add-binary/) | Easy |
+| [0069-sqrtx](https://github.com/paakhii4143/leethub/tree/main/0069-sqrtx/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/paakhii4143/leethub/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/paakhii4143/leethub/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/paakhii4143/leethub/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
@@ -181,6 +182,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/paakhii4143/leethub/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/paakhii4143/leethub/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/paakhii4143/leethub/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/paakhii4143/leethub/tree/main/0069-sqrtx/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -387,4 +389,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3331-find-subtree-sizes-after-changes](https://github.com/paakhii4143/leethub/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/paakhii4143/leethub/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
