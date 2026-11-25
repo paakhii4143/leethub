@@ -1,4 +1,3 @@
-
 class Solution(object):
     def numOfStrings(self, patterns, word):
         count = 0
