@@ -27,6 +27,7 @@
 | [0067-add-binary](https://github.com/paakhii4143/leethub/tree/main/0067-add-binary/) | Easy |
 | [0068-text-justification](https://github.com/paakhii4143/leethub/tree/main/0068-text-justification/) | Hard |
 | [0071-simplify-path](https://github.com/paakhii4143/leethub/tree/main/0071-simplify-path/) | Medium |
+| [0072-edit-distance](https://github.com/paakhii4143/leethub/tree/main/0072-edit-distance/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/paakhii4143/leethub/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/paakhii4143/leethub/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/paakhii4143/leethub/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -226,6 +227,7 @@
 | [0063-unique-paths-ii](https://github.com/paakhii4143/leethub/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/paakhii4143/leethub/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/paakhii4143/leethub/tree/main/0070-climbing-stairs/) | Easy |
+| [0072-edit-distance](https://github.com/paakhii4143/leethub/tree/main/0072-edit-distance/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/paakhii4143/leethub/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/paakhii4143/leethub/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/paakhii4143/leethub/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
