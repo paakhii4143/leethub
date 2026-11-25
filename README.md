@@ -102,6 +102,7 @@
 | [0064-minimum-path-sum](https://github.com/paakhii4143/leethub/tree/main/0064-minimum-path-sum/) | Medium |
 | [0068-text-justification](https://github.com/paakhii4143/leethub/tree/main/0068-text-justification/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/paakhii4143/leethub/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/paakhii4143/leethub/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/paakhii4143/leethub/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/paakhii4143/leethub/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/paakhii4143/leethub/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -189,6 +190,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/paakhii4143/leethub/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/paakhii4143/leethub/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/paakhii4143/leethub/tree/main/0069-sqrtx/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/paakhii4143/leethub/tree/main/0074-search-a-2d-matrix/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -348,6 +350,7 @@
 | [0063-unique-paths-ii](https://github.com/paakhii4143/leethub/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/paakhii4143/leethub/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/paakhii4143/leethub/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/paakhii4143/leethub/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/paakhii4143/leethub/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
