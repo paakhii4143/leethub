@@ -101,6 +101,7 @@
 | [0063-unique-paths-ii](https://github.com/paakhii4143/leethub/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/paakhii4143/leethub/tree/main/0064-minimum-path-sum/) | Medium |
 | [0068-text-justification](https://github.com/paakhii4143/leethub/tree/main/0068-text-justification/) | Hard |
+| [0073-set-matrix-zeroes](https://github.com/paakhii4143/leethub/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/paakhii4143/leethub/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/paakhii4143/leethub/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/paakhii4143/leethub/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -127,6 +128,7 @@
 | [0037-sudoku-solver](https://github.com/paakhii4143/leethub/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/paakhii4143/leethub/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/paakhii4143/leethub/tree/main/0049-group-anagrams/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/paakhii4143/leethub/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/paakhii4143/leethub/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/paakhii4143/leethub/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/paakhii4143/leethub/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -345,6 +347,7 @@
 | [0059-spiral-matrix-ii](https://github.com/paakhii4143/leethub/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/paakhii4143/leethub/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/paakhii4143/leethub/tree/main/0064-minimum-path-sum/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/paakhii4143/leethub/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/paakhii4143/leethub/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
